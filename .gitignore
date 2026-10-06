@@ -1,3 +1,16 @@
+# Codespaces notebook artifacts
 notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
+
+# Project data downloaded from Kaggle
+input/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local environment and editor files
+.env
+.venv/
+.DS_Store
